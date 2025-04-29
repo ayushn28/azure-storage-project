@@ -1,6 +1,4 @@
-# Azure Blob Storage Project
 
-This project demonstrates basic Azure Storage operations using the Azure Portal:
 
 ## 🔧 What was done
 - Created a Storage Account (Standard, LRS)
